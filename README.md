@@ -1,1 +1,1 @@
-The file Maximization.nb contains the Wolfram Mathematica notebook with general maximization of the inequality in Eq. (79) and the treatment of the special case of the OCB process matrix, for different states and measurement setups.
+The file Maximization.nb contains the Wolfram Mathematica notebook with general maximization of the inequality in Eq. (6.83) and the treatment of the special case of the OCB process matrix, for different states and measurement setups.
